@@ -1,6 +1,8 @@
-#Family Quiz - Lockdown 2020 Project
+# familyquiz
 
-I put together this super simple quiz site, and hosted it on one of my servers, to give some family members some nice easy access to a simple quiz app. I used a lot of James Q Quicks tutorial on YouTube [https://www.youtube.com/watch?v=u98ROZjBWy8&t=6s](Link here). I altered it a bit to remove the feedback so users can't memorise answers and I increased the question numbers. 
+I put together this super simple quiz site, and hosted it on one of my servers, to give some family members some nice easy access to a simple quiz app. I used a lot of James Q Quicks tutorial on YouTube https://www.youtube.com/watch?v=u98ROZjBWy8&t=6s. 
+
+I altered it a bit to remove the feedback so users can't memorise answers and I increased the question numbers. 
 
 ## Plans
 
